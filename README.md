@@ -1,4 +1,4 @@
-# Portfolio
+# Telling Stories with Data Portfolio
 This is my public portfolio for the Telling Stories with Data at CMU: https://victoria-lmy.github.io/Portfolio/
 
 # About me

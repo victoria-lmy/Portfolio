@@ -1,8 +1,8 @@
-HW2
+# HW2
 Once you've finished and saved your work, you can simply link to the new page by adding: 
 
-[some text here](/dataviz2.md)
-
+[To view this, please click on me!](/dataviz2.md)
+https://victoria-lmy.github.io/Portfolio/
 Don't forget to include a link from your new page back to your main portfolio page either!
 
 # Part 1

@@ -1,9 +1,6 @@
 # HW2
-Once you've finished and saved your work, you can simply link to the new page by adding: 
-
 [To view this, please click on me!](/dataviz2.md)
-https://victoria-lmy.github.io/Portfolio/
-Don't forget to include a link from your new page back to your main portfolio page either!
+Due to some technicle issues, this webpage can not work normally, so I include the URL for my graphs in the following parts.
 
 # Part 1
 <iframe src="https://data.oecd.org/chart/5PeO" width="860" height="645" style="border: 0" mozallowfullscreen="true" webkitallowfullscreen="true" allowfullscreen="true"><a href="https://data.oecd.org/chart/5PeO" target="_blank">OECD Chart: General government debt, Total, % of GDP, Annual, 2015</a></iframe>

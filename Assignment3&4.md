@@ -1,5 +1,6 @@
 # Assignment 3 & 4: Critique by Design
 The original data visualization is https://www.statista.com/statistics/1092688/awards-shows-racial-gender-diversity-us/
+
 My first draft is as follows:
 ![Draft](1.png)
 Include a short paragraph on why you selected this particular data visualization.
@@ -19,4 +20,4 @@ mention what that was.  Finally, talk about what your redesigned data visualizat
 why you selected the data visualization you did, and what you attempted to show or do differently. 
 
 My redesign graph:
-
+![Redesign](7.jpg)

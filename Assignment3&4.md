@@ -1,17 +1,14 @@
 # Assignment 3 & 4: Critique by Design
-The original data visualization is https://www.statista.com/statistics/1092688/awards-shows-racial-gender-diversity-us/
+ - The original data visualization is this following link: https://www.statista.com/statistics/1092688/awards-shows-racial-gender-diversity-us/
+ - I Selected this particular data visualization is because I am interested in the entertainment industry and how this industry projects impacts to the society at large. Another reason is that the data contained in this data visualization is relatively complete to explain the story which the author wants to convery, which enables me to focus on the data presentation instead of searching and cleaning data in the redesign process. The original graph is complete and able to understand but there is still room to make the graph more robust.
 
 My first draft is as follows:
 ![Draft](1.png)
-Include a short paragraph on why you selected this particular data visualization.
 
 Documentation for redesign:
-- Can you tell me what you think this is?
-- Can you describe to me what this is telling you?
-- Is there anything you find surprising or confusing?
-- Who do you think is the intended audience for this?
-- Is there anything you would change or do differently?
-Document answers to your questions and reflect on them. Did you learn anything interesting from the feedback on your initial design?
+I consulted my friends how they perceive my first draft and what they know from looking at it in the first sight. All of them said they can see the percentage change inside each of the segments in the four bars, but they thought its a picture of four different things. And three of them said that although they saw the "percentage" label, they still would perceive the amount on the bar as count instead of percentage. After gathering their thoughts and feeedbacks, I reflect on how to show this data visualization in two pairs instead of four unrelated, individual aspects. And the amounts shown on the bars without the percentage sign is confusing, since it violates people's common sense. When people see numbers, they will automatically think them as count and sum, instead of percentage.
+
+
 
 A couple paragraphs describing what your process was.  You should include a few insights you gained from the critique method, 
 and what it led you to think about when considering a redesign, if anything.  You should talk about how you moved next to the wireframes, 

@@ -1,4 +1,4 @@
-#Outline
+# Outline
 1. Summary:
 As a student majoring in entertainment industry, I am really interested about the current streaming wars. As there are more and more streaming platforms rising up, audience become confused about which platform they should subscribe. The purpose of this final project is to help audience to analyze which streaming platform is the most promising one that worth the investment (subscription). 
 
@@ -18,7 +18,7 @@ for your project.  Your sketches should mimic aspects of your outline, and build
 through your project.  Build in elements of your anticipated story structure for your project.  Your sketches themselves do not have 
 to be visually correct / accurate and you may use whatever method makes the most sense to you (hand-drawn, digital, etc.). 
 
-#The Data
+# The Data
 you'll need to get a copy of the data you'll need for your final project, 
 or recreate it based on various sources.  
 Make sure in all cases to record your sources and cite these data sources appropriately. 
@@ -28,7 +28,7 @@ or a link to a copy of the data you've uploaded to your Github repository,
 Box account or other publicly-accessible location. Using a datasource that is publicly accessible is highly encouraged.  
 If you anticipate using a data source other than something that would be publicly available please talk to me first. 
 
-#Method and Medium
+# Method and Medium
 In a few paragraphs, you should document how you plan on completing your final project.  
 One option we've already discussed is building a story using your data using Shorthand - 
 but this is my no means your only option.  You may select another digital platform (e.g. Esri's Story Maps, etc.), 
@@ -43,3 +43,5 @@ but your Powerpoint slides alone are not sufficient in meeting the requirements 
 Your final project deliverable must be an interactive, stand-alone project 
 (e.g. something you've created using Shorthand or another platform) 
 that won't require a future employer clicking through yet another PowerPoint deck. 
+
+Back to the front page:  https://victoria-lmy.github.io/Portfolio/

@@ -1,27 +1,23 @@
 # Outline
-1. Summary:
+Summary:
 As a student majoring in entertainment industry, I am really interested about the current streaming wars. As there are more and more streaming platforms rising up, audience become confused about which platform they should subscribe. The purpose of this final project is to help audience to analyze which streaming platform is the most promising one that worth the investment (subscription). 
 
-2. Project Structure:  
+Project Structure:  
 The project will analyze the top 5 streaming platforms: Netflix, Amazon, Disney+, HBO and Hulu from four dimensions, and will provide a weighted average score for audience to reference.
 
 The four dimensions are as follows:
-A. the history of running the platform (the launch data). 20% 
-B. the annual spending on content. 30%
-C. the quantity of shows available on the platform. 30%
-D. the number of current subscribers. 20%
+1. the history of running the platform (the launch data). 20% 
+2. the annual spending on content. 30%
+3. the quantity of shows available on the platform. 30%
+4. the number of current subscribers. 20%
 
 The percentage listed at the end of each dimension is the weighted number. The ranking number will be displayed in an order where 5 is the best, and 1 is the poor. The final score will be calculated by multiplying the weighted percentage with the respective ranking.
 Please refer the following picture for the 'call to action' and 'story arc'.
 
 # Initial Sketches
-We've explored how sketching can be a great way to help solidify your ideas into design choices, 
-and for your proposal you'll be creating sketches that outline your initial thoughts for your final project.  
-You may choose to present your sketches and integrate them into Part I of your final project in whatever fashion you feel
-makes the most sense - but they should be clear enough to be understandable to someone that has little to no contextual background
-for your project.  Your sketches should mimic aspects of your outline, and build on the resounding message you want to make clear 
-through your project.  Build in elements of your anticipated story structure for your project.  Your sketches themselves do not have 
-to be visually correct / accurate and you may use whatever method makes the most sense to you (hand-drawn, digital, etc.). 
+You may choose to present your sketches and integrate them into Part I of your final project in whatever fashion
+Your sketches should mimic aspects of your outline, and build on the resounding message you want to make clear 
+Your sketches themselves do not have to be visually correct / accurate
 
 # The Data
 you'll need to get a copy of the data you'll need for your final project, 

@@ -1,4 +1,4 @@
-# Outline
+# The Outline
 Summary:
 As a student majoring in entertainment industry, I am really interested about the current streaming wars. As there are more and more streaming platforms rising up, audience become confused about which platform they should subscribe. The purpose of this final project is to help audience to analyze which streaming platform is the most promising one that worth the investment (subscription). 
 
@@ -13,6 +13,7 @@ The four dimensions are as follows:
 
 The percentage listed at the end of each dimension is the weighted number. The ranking number will be displayed in an order where 5 is the best, and 1 is the poor. The final score will be calculated by multiplying the weighted percentage with the respective ranking.
 Please refer the following picture for the 'call to action' and 'story arc'.
+![Draft](3.jpg)
 
 # Initial Sketches
 You may choose to present your sketches and integrate them into Part I of your final project in whatever fashion

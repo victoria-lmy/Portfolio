@@ -3,11 +3,16 @@
 As a student majoring in entertainment industry, I am really interested about the current streaming wars. As there are more and more streaming platforms rising up, audience become confused about which platform they should subscribe. The purpose of this final project is to help audience to analyze which streaming platform is the most promising one that worth the investment (subscription). 
 
 2. Project Structure:  
-structure, major elements
-call to action
-outline user stories
+The project will analyze the top 5 streaming platforms: Netflix, Amazon, Disney+, HBO and Hulu from four dimensions, and will provide a weighted average score for audience to reference.
 
-Your Good Charts text talks about story structure in Chapter 8 - you should describe the story arc that you hope to achieve.  
+The four dimensions are as follows:
+A. the history of running the platform (the launch data). 20% 
+B. the annual spending on content. 30%
+C. the quantity of shows available on the platform. 30%
+D. the number of current subscribers. 20%
+
+The percentage listed at the end of each dimension is the weighted number. The ranking number will be displayed in an order where 5 is the best, and 1 is the poor. The final score will be calculated by multiplying the weighted percentage with the respective ranking.
+Please refer the following picture for the 'call to action' and 'story arc'.
 
 # Initial Sketches
 We've explored how sketching can be a great way to help solidify your ideas into design choices, 
@@ -44,4 +49,4 @@ Your final project deliverable must be an interactive, stand-alone project
 (e.g. something you've created using Shorthand or another platform) 
 that won't require a future employer clicking through yet another PowerPoint deck. 
 
-Back to the front page:  https://victoria-lmy.github.io/Portfolio/
+Please click on the header "Portfolio" to go back to the front page.

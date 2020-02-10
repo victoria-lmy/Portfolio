@@ -16,34 +16,28 @@ Please refer the following picture for the 'call to action' and 'story arc'.
 ![Draft](3.jpg)
 
 # Initial Sketches
-You may choose to present your sketches and integrate them into Part I of your final project in whatever fashion
-Your sketches should mimic aspects of your outline, and build on the resounding message you want to make clear 
-Your sketches themselves do not have to be visually correct / accurate
+![Draft](1.jpg)
 
 # The Data
-you'll need to get a copy of the data you'll need for your final project, 
-or recreate it based on various sources.  
-Make sure in all cases to record your sources and cite these data sources appropriately. 
-1. A couple of paragraphs that document your data source(s), and an explanation of how you plan on using your data. 
-2. A link to the publicly-accessible datasets you plan on using, 
-or a link to a copy of the data you've uploaded to your Github repository, 
-Box account or other publicly-accessible location. Using a datasource that is publicly accessible is highly encouraged.  
-If you anticipate using a data source other than something that would be publicly available please talk to me first. 
+1. The data source:
+https://observer.com/2019/10/netflix-disney-apple-amazon-hbo-max-peacock-content-budgets/
+https://www.axios.com/disney-netflix-content-spending-b7cc36a9-0d4a-495b-a191-01020e099a6e.html
+https://www.fastcompany.com/90410798/netflix-spent-an-estimated-15-billion-on-original-content-in-2019-ahead-of-disney-and-apple-tvs-launches
+2. I found a overall introduction to the current landscape of the streaming wars among the major platforms on Fast Company website. It has data relates to the biggest original content deals, the current US subsribers, the quantity vs quality of the shows provided etc. But these figures are not in a uniform style. Sometimes Fast Company will only focus on one platform (and it's normally Netflix) and sometimes it focuses on the comparison of 3 to 4 platforms. Thus, I would like to gather more information to complete the comparison based on the data Fast Company already has.
+
+From Observer, I found the the spending on content creation for each of the big streaming platforms and their breakdown of the budget. This can serve as the complementary data source to the Fast Company one.
+A couple of paragraphs that document your data source(s), and an explanation of how you plan on using your data. 
+
+Axios did a pretty much similar job as Observer. The reason why choose this data source is to have a well-rounded and relatively non-biased opinion and data support when generating insights based on that. Thus, back-up/supporting data source can be very helpful.
 
 # Method and Medium
-In a few paragraphs, you should document how you plan on completing your final project.  
-One option we've already discussed is building a story using your data using Shorthand - 
-but this is my no means your only option.  You may select another digital platform (e.g. Esri's Story Maps, etc.), 
-or you may propose doing something else entirely (AR / VR, mixed media, etc.).  
-If you choose to do something significantly outside of the technologies we've introduced in this course, please talk to me first. 
-I'd like all final projects to be documented digitally, so if you create something using physical materials  or more immersive, 
-you may need to also create a video recording of your story. 
+I am planning to use Shorthand to complete my final project with the help of Balsamiq wireframe, Datawrapper, Tableau and Rawgraphs.
 
-Finally, for your final project I'd discourage an over-reliance on PowerPoint slides. 
-If you need to use a few slides to frame the context of your final project presentation (a pitch deck) that's ok - 
-but your Powerpoint slides alone are not sufficient in meeting the requirements of the final project deliverable.  
-Your final project deliverable must be an interactive, stand-alone project 
-(e.g. something you've created using Shorthand or another platform) 
-that won't require a future employer clicking through yet another PowerPoint deck. 
+First I will introduce how many streamig platforms are there to indicate the difficult situation for audience when choosing which streaming platforms they should subscribe. Maybe use an explicit example to mimic the situation when audience struggling choosing the platforms.
+
+Second, I will narrow down my research topic by picking out the top five streaming platforms (Netflix, Amazon, Disney+, HBO and Hulu) to do the further analysis based upon the four dimensions I mentioned above.
+
+Third, I will gather the data to complete the comparison among these five platforms and give out rankings. This is the part where I will generate one graph for each of the dimensions. Then I will do the weighted score to finalize which platform is the most well-rounded, promising one that worth audience to subscribe. The finalize ranking will also be a data visualization.
+
 
 Please click on the header "Portfolio" to go back to the front page.

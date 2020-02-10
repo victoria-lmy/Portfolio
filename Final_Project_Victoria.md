@@ -23,6 +23,7 @@ The data source:
 1. https://observer.com/2019/10/netflix-disney-apple-amazon-hbo-max-peacock-content-budgets/
 2. https://www.axios.com/disney-netflix-content-spending-b7cc36a9-0d4a-495b-a191-01020e099a6e.html
 3. https://www.fastcompany.com/90410798/netflix-spent-an-estimated-15-billion-on-original-content-in-2019-ahead-of-disney-and-apple-tvs-launches
+
 I found a overall introduction to the current landscape of the streaming wars among the major platforms on Fast Company website. It has data relates to the biggest original content deals, the current US subsribers, the quantity vs quality of the shows provided etc. But these figures are not in a uniform style. Sometimes Fast Company will only focus on one platform (and it's normally Netflix) and sometimes it focuses on the comparison of 3 to 4 platforms. Thus, I would like to gather more information to complete the comparison based on the data Fast Company already has.
 
 From Observer, I found the the spending on content creation for each of the big streaming platforms and their breakdown of the budget. This can serve as the complementary data source to the Fast Company one.

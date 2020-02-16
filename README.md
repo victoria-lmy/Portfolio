@@ -2,7 +2,7 @@
 This is my public portfolio for the Telling Stories with Data at CMU: https://victoria-lmy.github.io/Portfolio/
 The second page can be linked to as [To view dataviz2, please click on me!](/dataviz2.md)
 The third page can be linked to as [To view Assignment 3&4, please click on me!](/Assignment3&4.md)
-The final project page can be linked to as [To view Final project, please click on me!](/Final_Project_Victoria.md)
+The final project page can be linked to as [To view the part 1 of the Final project, please click on me!](/Final_Project_Victoria_Part 1.md)
 
 
 ![Example](Sheet1.png)

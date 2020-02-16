@@ -6,6 +6,8 @@ https://www.google.com/imgres?imgurl=https%3A%2F%2Fpmcvariety.files.wordpress.co
 
 https://www.google.com/imgres?imgurl=https%3A%2F%2Fca-times.brightspotcdn.com%2Fdims4%2Fdefault%2F8e7cf6d%2F2147483647%2Fstrip%2Ftrue%2Fcrop%2F5259x5600%2B0%2B0%2Fresize%2F840x894!%2Fquality%2F90%2F%3Furl%3Dhttps%253A%252F%252Fcalifornia-times-brightspot.s3.amazonaws.com%252F3d%252Fed%252F5bf115e44a219a4334a6fda563fd%252Fla-ca-streaming-cover-492.JPG&imgrefurl=https%3A%2F%2Fwww.latimes.com%2Fentertainment-arts%2Fstory%2F2019-10-09%2Fstreaming-wars-of-2019-netflix-disney&tbnid=fG7X-bP42bfA2M&vet=12ahUKEwii74ry6dbnAhVNi1kKHY3WAFsQMygRegUIARD5AQ..i&docid=K_Kpe9xvGIFHZM&w=840&h=894&q=streaming%20wars&ved=2ahUKEwii74ry6dbnAhVNi1kKHY3WAFsQMygRegUIARD5AQ
 
+https://www.aarp.org/home-family/personal-technology/info-2019/new-tv-streaming-services.html
+
 (2) Creation of a user research protocol and completion of at least three interviews
 You should have also developed a simple user research protocol that describes what you hope to find during your user interviews, including your research questions and the script.  Once your interviews are complete, you should have documented findings that detail what you've learned by showing your early wireframes / storyboards to at least three different individuals.  
 Your user research protocol should clearly identify the following: 

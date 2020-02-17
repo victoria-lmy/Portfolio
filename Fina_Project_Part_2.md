@@ -17,9 +17,9 @@
 3. interview script:
 Can you describe to me what the storyline is telling you?
 
-Who do you think is the intended audience? If this is not clear, are there ways to make it clearer?
+- Who do you think is the intended audience? If this is not clear, are there ways to make it clearer?
 
-•	Are those picture or icon there appropriate?
+- Are those picture or icon there appropriate?
 •	Is there anything you find surprising or confusing?
 •	Is there anything you would change or do differently?
 •	Is there any additional information you would like to know?

@@ -1,17 +1,15 @@
 # Wirefames for user feedback
 ![Draft](W1.png)
 ![Draft](W2.png)
-![Draft](W3.jpg)
-![Draft](W4.jpg)
-![Draft](W5.jpg)
-![Draft](W6.jpg)
-![Draft](W7.jpg)
-![Draft](W8.jpg)
-![Draft](W9.jpg)
-![Draft](W10.jpg)
-![Draft](W11.jpg)
-
-
+![Draft](W3.png)
+![Draft](W4.png)
+![Draft](W5.png)
+![Draft](W6.png)
+![Draft](W7.png)
+![Draft](W8.png)
+![Draft](W9.png)
+![Draft](W10.png)
+![Draft](W11.png)
 
 # Creation of a user research protocol and completion of at least three interviews
 You should have also developed a simple user research protocol that describes what you hope to find during your user interviews, including your research questions and the script.  Once your interviews are complete, you should have documented findings that detail what you've learned by showing your early wireframes / storyboards to at least three different individuals.  

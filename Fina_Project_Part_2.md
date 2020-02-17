@@ -1,6 +1,6 @@
 # Wirefames for user feedback
-![Draft](W1.jpg)
-![Draft](W2.jpg)
+![Draft](W1.png)
+![Draft](W2.png)
 ![Draft](W3.jpg)
 ![Draft](W4.jpg)
 ![Draft](W5.jpg)

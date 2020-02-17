@@ -16,7 +16,9 @@
 2. identify representative individuals to interview: I interviewed students at Heinz College with various backgrounds, with one from information system major, one from entertainment industry management major and one from public policy major. One of the reasons why I chose Heinz students is because they are the active user group for streaming platforms and this topic may relate to them more.
 3. interview script:
 Can you describe to me what the storyline is telling you?
+
 Who do you think is the intended audience? If this is not clear, are there ways to make it clearer?
+
 •	Are those picture or icon there appropriate?
 •	Is there anything you find surprising or confusing?
 •	Is there anything you would change or do differently?

@@ -1,5 +1,11 @@
 (1) Wirefames / storyboard for user feedback
-Further developed your story outline and relevant components you proposed in Part I visually through the use of wireframing / storyboards.  Your wireframes should include individual draft data visualizations of the critical elements of your story you want to share with your reader (some of these may come from Part I sketches) along with a visualization of your outline as a storyboard.  Your wireframes should integrate your data visualizations through some kind of storyboard-like format.  Your storyboards should be a visual walk-through of the primary elements of your outline, tying in your sketches where appropriate to illustrate how you intend to lead the reader through your experience.  These can either be hand-drawn or can be created digitally using Balsamiq or another tool. 
+\along with a visualization of your outline as a storyboard.  Your wireframes should integrate your data visualizations through some kind of storyboard-like format.  Your storyboards should be a visual walk-through of the primary elements of your outline, tying in your sketches where appropriate to illustrate how you intend to lead the reader through your experience.  These can either be hand-drawn or can be created digitally using Balsamiq or another tool. 
+
+Key Feedback	Changes Made
+All of the feedbackers can understand the storyline and commented that it flows smoothly.	NA
+All the feedbackers also reflected that the title matches the content (visualizations and text).	NA
+The comparison of healthcare waste to the defense budget was surprising for a lot of them. Providing a comparable reference to	NA
+Many pointed out that the intended audience is the legislators who may not be clear about the waste situation. Those close in the industry (federal agencies) are typically aware of the situation.	Adding legislators and call to action to the audience list.
 
 Data sources:
 https://www.pcmag.com/picks/the-best-video-streaming-services

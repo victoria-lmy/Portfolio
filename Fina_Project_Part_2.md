@@ -12,13 +12,11 @@
 ![Draft](W11.png)
 
 # Creation of a user research protocol and completion of at least three interviews
-You should have also developed a simple user research protocol that describes what you hope to find during your user interviews, including your research questions and the script.  Once your interviews are complete, you should have documented findings that detail what you've learned by showing your early wireframes / storyboards to at least three different individuals.  
-Your user research protocol should clearly identify the following: 
-a. the target audience you hope to reach with your story; 
-b. your approach to identifying representative individuals to interview; 
-c. your interview script; 
-d. the findings from your interviews; and 
-e. changes you implemented to your sketches, storyboards and wireframes to address the issues identified.
+1. the target audience you hope to reach with your story: any audience who are confused about which streaming platform he/she should subscribe to in the U.S.
+2. your approach to identifying representative individuals to interview: I
+3. your interview script; 
+4. the findings from your interviews; and 
+5. changes you implemented to your sketches, storyboards and wireframes to address the issues identified.
 
 # Revised wireframes based on what you heard
 Finally, you'll put these changes into practice in your wireframes / storyboards.  Begin refining your wireframes / storyboards reflecting what you've identified and learned through your user research.   For the purpose of this assignment, your final wireframes should essentially be an early draft of your final project that includes your project outline, sketches, and brings your storyboards to life.  For most of you this will mean that you've created a digital outline or shell that you can then begin to further refine and improve heading into Part III, and it should begin to feel complete enough that an external reviewer can easily tell how you're beginning to craft your story.  Therefore you should begin taking your outline and building out the structure of your story into whatever you identified in your Part I proposal.   

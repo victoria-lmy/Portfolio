@@ -1,4 +1,5 @@
-# The Outline
+# PART ONE
+## The Outline
 Summary:
 As a student majoring in entertainment industry, I am really interested about the current streaming wars. As there are more and more streaming platforms rising up, audience become confused about which platform they should subscribe. The purpose of this final project is to help audience to analyze which streaming platform is the most promising one that worth the investment (subscription). 
 
@@ -15,10 +16,10 @@ The percentage listed at the end of each dimension is the weighted number. The r
 Please refer the following picture for the 'call to action' and 'story arc'.
 ![Draft](3.jpg)
 
-# Initial Sketches
+## Initial Sketches
 ![Draft](1.jpg)
 
-# The Data
+## The Data
 The data source:
 1. https://observer.com/2019/10/netflix-disney-apple-amazon-hbo-max-peacock-content-budgets/
 2. https://www.axios.com/disney-netflix-content-spending-b7cc36a9-0d4a-495b-a191-01020e099a6e.html
@@ -31,7 +32,7 @@ A couple of paragraphs that document your data source(s), and an explanation of 
 
 Axios did a pretty much similar job as Observer. The reason why choose this data source is to have a well-rounded and relatively non-biased opinion and data support when generating insights based on that. Thus, back-up/supporting data source can be very helpful.
 
-# Method and Medium
+## Method and Medium
 I am planning to use Shorthand to complete my final project with the help of Balsamiq wireframe, Datawrapper, Tableau and Rawgraphs.
 
 First I will introduce how many streamig platforms are there to indicate the difficult situation for audience when choosing which streaming platforms they should subscribe. Maybe use an explicit example to mimic the situation when audience struggling choosing the platforms.
@@ -41,8 +42,8 @@ Second, I will narrow down my research topic by picking out the top five streami
 Third, I will gather the data to complete the comparison among these five platforms and give out rankings. This is the part where I will generate one graph for each of the dimensions. Then I will do the weighted score to finalize which platform is the most well-rounded, promising one that worth audience to subscribe. The finalize ranking will also be a data visualization.
 
 
-## Part TWO
-# Wirefames for user feedback
+# PART TWO
+## Wirefames for user feedback
 ![Draft](W1.png)
 ![Draft](W2.png)
 ![Draft](W3.png)
@@ -55,7 +56,7 @@ Third, I will gather the data to complete the comparison among these five platfo
 ![Draft](W10.png)
 ![Draft](W11.png)
 
-# Creation of a user research protocol and completion of at least three interviews
+## Creation of a user research protocol and completion of at least three interviews
 1. the target audience: any audience who are confused about which streaming platform he/she should subscribe to in the U.S.
 2. identify representative individuals to interview: I interviewed students at Heinz College with various backgrounds, with one from information system major, one from entertainment industry management major and one from public policy major. One of the reasons why I chose Heinz students is because they are the active user group for streaming platforms and this topic may relate to them more.
 3. interview script:
@@ -78,7 +79,7 @@ Three of them all ranked "the development history" as the least aspect that they
 5. Changes I implemented to my wireframes to address the issues identified:
 I add a pie chart to show how many streaming platforms are there in the industry, in order to demonstrate the fierce competition and the confusion it can easily shed upon potential subscriber. For development history, I changed the indicator into the logo of the company as I think this will be more direct for the reader. I changed the sequence of the dimensions. Previously, the sequence is development history, subscription price, annual spending on content, quantity of shows available, qualitative analysis and current subscribers. Now, I changed them according to the ranking from the interviews, which is quantity of shows available, price of the subscription, qualitative analysis, annual spending on content, current subscribers and development history. Besides that I also changed the ranking page, by putting the ranking on the very top and the detailed breakdown at the end. As for the addition elements brought up by the interviewers, I value all of them. However, when it comes down to reality, it is very hard to realize. For example, the comparison between interfaces is a good point, but aesthetic beauty is a very subjective measure and is hard to give a definite score on that.
 
-# Revised wireframes based on what you heard
+## Revised wireframes based on what you heard
 ![Draft](W1.png)
 ![Draft](W2.png)
 ![Draft](WF1.png)

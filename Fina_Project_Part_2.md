@@ -1,43 +1,8 @@
 (1) Wirefames / storyboard for user feedback
-\along with a visualization of your outline as a storyboard.  Your wireframes should integrate your data visualizations through some kind of storyboard-like format.  Your storyboards should be a visual walk-through of the primary elements of your outline, tying in your sketches where appropriate to illustrate how you intend to lead the reader through your experience.  These can either be hand-drawn or can be created digitally using Balsamiq or another tool. 
 
-Key Feedback	Changes Made
-All of the feedbackers can understand the storyline and commented that it flows smoothly.	NA
-All the feedbackers also reflected that the title matches the content (visualizations and text).	NA
-The comparison of healthcare waste to the defense budget was surprising for a lot of them. Providing a comparable reference to	NA
-Many pointed out that the intended audience is the legislators who may not be clear about the waste situation. Those close in the industry (federal agencies) are typically aware of the situation.	Adding legislators and call to action to the audience list.
 
-Data sources:
-https://www.pcmag.com/picks/the-best-video-streaming-services
 
-https://www.forbes.com/sites/danafeldman/2019/08/21/netflix-is-expected-to-lose-us-share-as-rivals-gain/#18fb70ad66d6
 
-https://finance.yahoo.com/news/disney-subscribers-compare-netflix-amazon-160542948.html
-
-https://www.cnn.com/interactive/business/streaming-services-compared/
-
-https://www.forbes.com/sites/danafeldman/2019/10/29/tv-time-uta-streaming-wars-study-6-new-services-exceeds-consumer-demand/#d056e361fb07
-
-https://www.investopedia.com/articles/personal-finance/121714/hulu-netflix-and-amazon-instant-video-comparison.asp
-
-https://www.inc.com/sarah-jackson/best-tv-streaming-services.html
-
-https://www.digitaltrends.com/home-theater/best-on-demand-streaming-services/
-
-https://www.statista.com/statistics/1060559/movies-tv-shows-number-svod-platforms-us/
-
-https://www.usatoday.com/story/entertainment/tv/2019/10/29/apple-tv-netflix-disney-all-streaming-services-ranked/2484448001/
-
-https://www.fastcompany.com/90410798/netflix-spent-an-estimated-15-billion-on-original-content-in-2019-ahead-of-disney-and-apple-tvs-launches
-
-Image sources:
-https://www.google.com/imgres?imgurl=https%3A%2F%2Fpmcvariety.files.wordpress.com%2F2019%2F12%2Fmedia-universe-variety-cover-story.jpg%3Fw%3D1000&imgrefurl=https%3A%2F%2Fvariety.com%2F2019%2Fbiz%2Ffeatures%2Fstreaming-2020-disney-plus-netflix-hbo-max-apple-tv-amazon-1203439700%2F&tbnid=rk1Seuo82o_NhM&vet=12ahUKEwii74ry6dbnAhVNi1kKHY3WAFsQMygPegUIARD1AQ..i&docid=K0Pxwv1sjaOrTM&w=1000&h=524&q=streaming%20wars&ved=2ahUKEwii74ry6dbnAhVNi1kKHY3WAFsQMygPegUIARD1AQ
-
-https://www.google.com/imgres?imgurl=https%3A%2F%2Ftribunecontentagency.com%2Fwp-content%2Fuploads%2F2019%2F10%2Frss.tribunecontentagency.comimage_download-1024x714.cgi-fb3e11552575d83602b380e09e183102cfbeddc9&imgrefurl=https%3A%2F%2Ftribunecontentagency.com%2Farticle%2Fstreaming-wars%2F&tbnid=6DO1hsZt9IpuUM&vet=12ahUKEwii74ry6dbnAhVNi1kKHY3WAFsQMyg5egQIARB9..i&docid=4du-7OB4coHMzM&w=1024&h=714&q=streaming%20wars&ved=2ahUKEwii74ry6dbnAhVNi1kKHY3WAFsQMyg5egQIARB9
-
-https://www.google.com/imgres?imgurl=https%3A%2F%2Fca-times.brightspotcdn.com%2Fdims4%2Fdefault%2F8e7cf6d%2F2147483647%2Fstrip%2Ftrue%2Fcrop%2F5259x5600%2B0%2B0%2Fresize%2F840x894!%2Fquality%2F90%2F%3Furl%3Dhttps%253A%252F%252Fcalifornia-times-brightspot.s3.amazonaws.com%252F3d%252Fed%252F5bf115e44a219a4334a6fda563fd%252Fla-ca-streaming-cover-492.JPG&imgrefurl=https%3A%2F%2Fwww.latimes.com%2Fentertainment-arts%2Fstory%2F2019-10-09%2Fstreaming-wars-of-2019-netflix-disney&tbnid=fG7X-bP42bfA2M&vet=12ahUKEwii74ry6dbnAhVNi1kKHY3WAFsQMygRegUIARD5AQ..i&docid=K_Kpe9xvGIFHZM&w=840&h=894&q=streaming%20wars&ved=2ahUKEwii74ry6dbnAhVNi1kKHY3WAFsQMygRegUIARD5AQ
-
-https://www.aarp.org/home-family/personal-technology/info-2019/new-tv-streaming-services.html
 
 (2) Creation of a user research protocol and completion of at least three interviews
 You should have also developed a simple user research protocol that describes what you hope to find during your user interviews, including your research questions and the script.  Once your interviews are complete, you should have documented findings that detail what you've learned by showing your early wireframes / storyboards to at least three different individuals.  

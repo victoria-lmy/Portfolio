@@ -1,6 +1,6 @@
 ## Final data story
 
-#The intended audience for my final data story are general audience who have trouble choosing which streaming platforms they should subscribe.
+# The intended audience for my final data story are general audience who have trouble choosing which streaming platforms they should subscribe.
 I create a model to evaluate the five selected streaming platforms and provide a ranking with scores breakdown to give out reference and suggestions for my intended audience.
 
 

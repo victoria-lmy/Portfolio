@@ -1,7 +1,13 @@
-# Final data story
+## Final data story
 
-The intended audience for my final data story are general audience who have trouble choosing which streaming platforms they should subscribe.
+#The intended audience for my final data story are general audience who have trouble choosing which streaming platforms they should subscribe.
 I create a model to evaluate the five selected streaming platforms and provide a ranking with scores breakdown to give out reference and suggestions for my intended audience.
+
+
+1. the target audience: any audience who are confused about which streaming platform he/she should subscribe to in the U.S.
+2. identify representative individuals to interview: I interviewed students at Heinz College with various backgrounds, with one from information system major, one from entertainment industry management major and one from public policy major. One of the reasons why I chose Heinz students is because they are the active user group for streaming platforms and this topic may relate to them more.
+3. interview script:
+- Can you
 
 
 A few paragraphs that summarize the work you've done so far.  

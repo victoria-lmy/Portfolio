@@ -1,14 +1,9 @@
-## Final data story
-
-# The intended audience for my final data story are general audience who have trouble choosing which streaming platforms they should subscribe.
-I create a model to evaluate the five selected streaming platforms and provide a ranking with scores breakdown to give out reference and suggestions for my intended audience.
-
-
-1. the target audience: any audience who are confused about which streaming platform he/she should subscribe to in the U.S.
-2. identify representative individuals to interview: I interviewed students at Heinz College with various backgrounds, with one from information system major, one from entertainment industry management major and one from public policy major. One of the reasons why I chose Heinz students is because they are the active user group for streaming platforms and this topic may relate to them more.
-3. interview script:
-- Can you
-
+# Final data story
+## Audience
+The intended audience for my final data story are general audience who have trouble choosing which streaming platforms they should subscribe.
+I create a model to evaluate the five selected streaming platforms and provide a ranking with scores breakdown to give out reference and suggestions for my intended audience. The detail of how the model works is as follow: first, I assign scores, from 1 to 5 with 5 suggesting the best, for each platform under each category. For example, for total contents available, Amazon Prime Video gets a 5 since it has the most content library. But for the subscription price category, the lower the better, so Disney+ gets a 5.Then, I attached different weights to different categories. I give 0.4 to quantity of contents available, 0.3 for subscription price, 0.15 for annual spending on contents, 0.1 for current number of subscribers, and 0.05 for the launch timeline. These numbers are based on the interviews and surveys I conducted at Heinz College.Finally, I sum product the scores and weights in terms of categories, and reach a total score of: 4.4 for Amazon Prime Video, 3.7 for Netflix, 2.85 for Hulu, 2.3 for Disney+, and 1.75 for HBO Now.
+## Work I've done
+I have chose a topic and narrow it down by only analyzing the top 5 streaming platforms in the five aspect/categories.
 
 A few paragraphs that summarize the work you've done so far.  
 Talk about the design decisions you had to make along the way, and 

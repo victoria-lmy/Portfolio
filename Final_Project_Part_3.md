@@ -49,3 +49,7 @@ https://www.statista.com/statistics/648541/amazon-prime-video-subscribers-usa/
 
 https://www.statista.com/statistics/1060559/movies-tv-shows-number-svod-platforms-us/
 ## The link to my final presentation: https://carnegiemellon.shorthandstories.com/which-platform-should-i-subscribe-/index.html
+
+To view the first part of the final project, [please click on me!](/Final_Project_Victoria_Part_1.md)
+To view the second part of the final project, [please click on me!](/Final_Project_Part_2.md)
+Please click on "Portfolio" to return to the front page.

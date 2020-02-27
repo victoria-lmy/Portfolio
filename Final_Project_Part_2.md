@@ -47,3 +47,5 @@ I add a pie chart to show how many streaming platforms are there in the industry
 ![Draft](WF8.png)
 ![Draft](WF9.png)
 
+To view the third part of the final project, [please click on me!](/Final_Project_Part_3.md)
+To view the first part of the final project, [please click on me!](/Final_Project_Part_1_victoria.md)

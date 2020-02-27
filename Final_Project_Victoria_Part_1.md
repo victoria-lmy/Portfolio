@@ -41,7 +41,7 @@ Second, I will narrow down my research topic by picking out the top five streami
 
 Third, I will gather the data to complete the comparison among these five platforms and give out rankings. This is the part where I will generate one graph for each of the dimensions. Then I will do the weighted score to finalize which platform is the most well-rounded, promising one that worth audience to subscribe. The finalize ranking will also be a data visualization.
 
-[To view the second part of the final project, please click on me!](/Final_Project_Part_2.md)
-[To view the third part of the final project, please click on me!](/Final_Project_Part_3.md)
+To view the second part of the final project, [please click on me!](/Final_Project_Part_2.md)
+To view the third part of the final project, [please click on me!](/Final_Project_Part_3.md)
 
 Please click on the header "Portfolio" to go back to the front page.

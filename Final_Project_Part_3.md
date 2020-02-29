@@ -13,6 +13,7 @@ I create a model to evaluate the five selected streaming platforms and provide a
 ## Reflection
 I felt that coming up with ideas is easy, but structure these ideas into a logic, aethetic and infomative work is tough. The hardest part I encountered when doing the job is cleaning and filtering the data I found and formed them in a structured format. The other thing is that I felt the wireframing process is very helpful to clear out the thoughts. 
 ## References
+
 https://www.forbes.com/sites/danafeldman/2019/10/29/tv-time-uta-streaming-wars-study-6-new-services-exceeds-consumer-demand/#8635ad71fb07
 
 https://variety.com/2019/biz/features/streaming-2020-disney-plus-netflix-hbo-max-apple-tv-amazon-1203439700/
@@ -50,6 +51,6 @@ https://www.statista.com/statistics/648541/amazon-prime-video-subscribers-usa/
 https://www.statista.com/statistics/1060559/movies-tv-shows-number-svod-platforms-us/
 ## The link to my final presentation: https://carnegiemellon.shorthandstories.com/which-platform-should-i-subscribe-/index.html
 
-To view the first part of the final project, [please click on me!](/Final_Project_Victoria_Part_1.md)
-To view the second part of the final project, [please click on me!](/Final_Project_Part_2.md)
+- To view the first part of the final project, [please click on me!](/Final_Project_Victoria_Part_1.md)
+- To view the second part of the final project, [please click on me!](/Final_Project_Part_2.md)
 Please click on "Portfolio" to return to the front page.

@@ -1,4 +1,4 @@
-# Wirefames for user feedback
+# Part two - Wirefames for user feedback
 ![Draft](W1.png)
 ![Draft](W2.png)
 ![Draft](W3.png)
@@ -47,6 +47,6 @@ I add a pie chart to show how many streaming platforms are there in the industry
 ![Draft](WF8.png)
 ![Draft](WF9.png)
 
-To view the third part of the final project, [please click on me!](/Final_Project_Part_3.md)
-To view the first part of the final project, [please click on me!](/Final_Project_Victoria_Part_1.md)
+- To view the third part of the final project, [please click on me!](/Final_Project_Part_3.md)
+- To view the first part of the final project, [please click on me!](/Final_Project_Victoria_Part_1.md)
 Please click on "Portfolio" to return to the front page.

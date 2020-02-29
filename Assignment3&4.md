@@ -18,4 +18,4 @@ Redesign process:
 Here is my redesign graph:
 ![Redesign](7.jpg)
 
-Thanks!
+Please click on "Portfolio" to go back to the front page.

@@ -1,8 +1,8 @@
 # Telling Stories with Data Portfolio
 This is my public portfolio for the Telling Stories with Data at CMU: https://victoria-lmy.github.io/Portfolio/
 If you would like to know more about the projects that I have done for this course, you can check out links below:
-- In class exercises can be linked to as [In class exercise-dataviz2](/dataviz2.md)
-- Assignment 2 can be linked to as [In class exercise-dataviz2](/dataviz2.md)
+- In class exercises can be linked to as [In class exercise](/inclass.md)
+- Assignment 2 can be linked to as [Assignment 2](/dataviz2.md)
 - Assignment 3 & 4 can be linked to as [Assignment 3&4](/Assignment3&4.md)
 - The final project can be linked to as [To view the Final project, please click on me!](/Final_Project_Victoria_Part_1.md)
 
